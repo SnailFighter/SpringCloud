@@ -1,0 +1,8 @@
+server:
+  port: 10071
+
+spring:
+  application:
+    name: service-customer
+
+
