@@ -54,7 +54,13 @@
 
 		<dependency>
 			<groupId>com.lzw</groupId>
-			<artifactId>spring-cloud-proapi</artifactId>
+			<artifactId>spring-cloud-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.lzw</groupId>
+			<artifactId>spring-cloud-api01</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 

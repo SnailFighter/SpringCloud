@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 @Configuration
 @SpringBootApplication
-@ComponentScan(basePackages = "com.lzw.*")
+@ComponentScan(basePackages = "com.lzw.servicepro.**")
 @EnableAutoConfiguration
 public class SpringCloudProviderApplication {
 

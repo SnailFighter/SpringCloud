@@ -1,7 +1,7 @@
 package com.lzw.customer.controller;
 
 import com.lzw.customer.apis.Hello;
-import com.lzw.apis.Study;
+import com.lzw.customer.apis.Study;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 import org.springframework.beans.factory.annotation.Autowired;
